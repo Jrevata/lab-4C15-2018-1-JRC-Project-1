@@ -4,4 +4,4 @@
 	
 ## Antes de empezar
 
-	Revisar la guia de laboratorio
+	Revisar la guia de laboratorio"Nuevo cambio" 
